@@ -1,0 +1,14 @@
+1a= split
+1b= readline
+1c= match pattern
+
+2a= phone no.
+2b= email
+
+4= accpets three ones
+
+6= decimal no. divisible by 2
+
+7= accpets equal no. of ones and zeros
+
+8= count no. of ones and zeros 
